@@ -11,7 +11,6 @@ Deploy passo-a-passo
 
 Conectar-se a um servidor remoto usando SSH
 	ssh usuarioRemoto@enderecoDoServidor
-	ssh root@45.55.240.216
 
 Configurar o Virtual Host no Nginx
 	1º - Criar o arquivo de configuração no diretório 'sites-available' com base no arquivo exemplo
