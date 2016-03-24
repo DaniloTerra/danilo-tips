@@ -17,3 +17,6 @@
 
 # Servidor PHP embutido > PHP 5.4
 - php -S localhost:8000
+
+# Executar um Seeder específico
+- php artisan db:seed --class=NomeDaClasseSeeder
